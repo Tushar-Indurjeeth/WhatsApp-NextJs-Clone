@@ -1,12 +1,12 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBtBHT9U7OZ2KkHUJnIxzEVxAGmqy4QwTA",
-  authDomain: "whatsapp-nextjs-clone.firebaseapp.com",
-  projectId: "whatsapp-nextjs-clone",
-  storageBucket: "whatsapp-nextjs-clone.appspot.com",
-  messagingSenderId: "321759526115",
-  appId: "1:321759526115:web:73e2351276fbb2073759d6",
+  apiKey: process.env.API_KEY,
+  authDomain: process.env.AUTH_DOMAIN,
+  projectId: process.env.PRODJECT_ID,
+  storageBucket: process.env.STORAGE_BUCKET,
+  messagingSenderId: process.env.MESSAGING_SERVER_ID,
+  appId: process.env.APP_ID,
 };
 
 const app = !firebase.apps.length

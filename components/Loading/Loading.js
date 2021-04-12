@@ -1,4 +1,4 @@
-import LogoImg from "../../public/js/Logo";
+import LogoImg from "../../utils/Logo";
 import { Circle } from "better-react-spinkit";
 
 export default function Loading() {

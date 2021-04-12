@@ -2,7 +2,7 @@ import React from "react";
 import Head from "next/head";
 import styled from "styled-components";
 import { Button } from "@material-ui/core";
-import LogoImg from "../public/js/Logo";
+import LogoImg from "../utils/Logo";
 import { auth, provider } from "../firebaseConfig/firebase";
 
 export default function login() {

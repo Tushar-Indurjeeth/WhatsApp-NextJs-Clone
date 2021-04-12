@@ -1,5 +1,5 @@
 # WhatsApp NextJs Clone
-A WhatsApp clone built using [NextJs](https://nextjs.org/) and [React](https://reactjs.org/)
+A WhatsApp clone built using [NextJs](https://nextjs.org/), [React](https://reactjs.org/) and [Styled Components](https://styled-components.com/).
 
 ## Live demo
 [https://whatsapp-nextjs-clone.vercel.app/](https://whatsapp-nextjs-clone.vercel.app/)
@@ -12,3 +12,17 @@ A WhatsApp clone built using [NextJs](https://nextjs.org/) and [React](https://r
 ## Built using
 - [React](https://reactjs.org/)
 - [NextJs](https://nextjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [Material UI](https://material-ui.com/)
+- [Firebase](https://www.npmjs.com/package/firebase)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [email-validator](https://www.npmjs.com/package/email-validator)
+- [moment](https://www.npmjs.com/package/moment)
+- [timeago-react](https://www.npmjs.com/package/timeago-react)
+- [better-react-spinkit](https://www.npmjs.com/package/better-react-spinkit)
+
+## Platfrom
+Hosted through [Vercel](https://vercel.com/)
+
+## License
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/whatsapp-nextjs-clone/blob/95dbc3c31fd285fca4af99129a6c462bd6e02cf8/LICENSE)
